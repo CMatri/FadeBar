@@ -1,0 +1,10 @@
+D:\Programming\C#\FadeBar\FadeBar\bin\Debug\FadeBar.exe.config
+D:\Programming\C#\FadeBar\FadeBar\bin\Debug\FadeBar.exe
+D:\Programming\C#\FadeBar\FadeBar\bin\Debug\FadeBar.pdb
+D:\Programming\C#\FadeBar\FadeBar\obj\Debug\FadeBar.csprojAssemblyReference.cache
+D:\Programming\C#\FadeBar\FadeBar\obj\Debug\FadeBar.Form1.resources
+D:\Programming\C#\FadeBar\FadeBar\obj\Debug\FadeBar.Properties.Resources.resources
+D:\Programming\C#\FadeBar\FadeBar\obj\Debug\FadeBar.csproj.GenerateResource.cache
+D:\Programming\C#\FadeBar\FadeBar\obj\Debug\FadeBar.csproj.CoreCompileInputs.cache
+D:\Programming\C#\FadeBar\FadeBar\obj\Debug\FadeBar.exe
+D:\Programming\C#\FadeBar\FadeBar\obj\Debug\FadeBar.pdb
